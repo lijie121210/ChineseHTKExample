@@ -1,0 +1,14 @@
+1. SENT-START 我 要 三 箱 银桥 核桃 牛奶 SENT-END 
+2. SENT-START 要 二 箱 银桥 核桃 牛奶 SENT-END 
+3. SENT-START 要 四 箱 银桥 黑谷 牛奶 SENT-END 
+4. SENT-START 要 九 箱 银桥 黑谷 牛奶 SENT-END 
+5. SENT-START 要 一 箱 银桥 纯 牛奶 SENT-END 
+6. SENT-START 我 要 八 箱 银桥 核桃 牛奶 SENT-END 
+7. SENT-START 来 三 箱 银桥 纯 牛奶 SENT-END 
+8. SENT-START 来 二 箱 银桥 纯 牛奶 SENT-END 
+9. SENT-START 来 十 箱 银桥 红枣 牛奶 SENT-END 
+10. SENT-START 来 九 箱 银桥 红枣 牛奶 SENT-END 
+11. SENT-START 要 五 箱 银桥 核桃 牛奶 SENT-END 
+12. SENT-START 来 四 箱 银桥 核桃 牛奶 SENT-END 
+13. SENT-START 我 来 五 箱 银桥 红枣 牛奶 SENT-END 
+14. SENT-START 我 来 一 箱 银桥 核桃 牛奶 SENT-END 
